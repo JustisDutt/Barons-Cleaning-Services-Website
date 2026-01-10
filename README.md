@@ -23,7 +23,7 @@ Final content, branding assets, and production images are pending client deliver
 
 ## Next Steps
 - Replace placeholder images and logo with final assets
-- Final content review with client
+- Final content review
 - Deploy to production hosting
 
 ---
