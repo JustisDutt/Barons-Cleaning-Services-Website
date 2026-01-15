@@ -1,1 +1,0 @@
-console.log("Barons Day Porter site loaded");
