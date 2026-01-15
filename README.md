@@ -143,4 +143,21 @@ GitHub: https://github.com/JustisDutt
 
 LinkedIn: https://www.linkedin.com/in/justis-dutt-951834224/
 
+---
+
+## Licensing and Ownership
+
+All content in this repository, including but not limited to:
+- Website copy and written content
+- Layout, structure, and design
+- Images, graphics, and visual assets
+- Branding elements and logos
+- Custom stylesheets and JavaScript
+
+is the exclusive property of **Barons Cleaning Services**.
+
+This repository is provided for development, deployment, and maintenance purposes only.  
+No part of this project may be copied, redistributed, modified, or reused without explicit written permission from Barons Cleaning Services.
+
+This project is **not open source**.
 
